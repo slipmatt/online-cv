@@ -39,28 +39,28 @@ career-profile:
     title: Career Profile
     summary: |
       I am characterized as a dynamic and detail-oriented Software Developer
-	  with progressive experience in the Full Stack development space. 
-	  I am a critical thinker who constantly seeks out innovative solutions 
-	  to everyday problems and I am driven by my deep passion for 
-	  designing, developing and supporting applications. Equipped with excellent 
-	  analytical skills over my many years of experience, I’ve also displayed 
-	  proficiency in project management and team collaboration with outstanding 
-	  presentation and communication abilities. My commitment to my profession 
-	  and continuous development in my field coupled with my strong leadership 
-	  & communication skills have contributed to me reaching my current role 
-	  as a Senior Software Developer. The Full CV can be downloaded <a href = '../assets/pdf/28102021-CV-Curriculum-Vitae.pdf'>here</a>
+      with progressive experience in the Full Stack development space. 
+      I am a critical thinker who constantly seeks out innovative solutions 
+      to everyday problems and I am driven by my deep passion for 
+      designing, developing and supporting applications. Equipped with excellent 
+      analytical skills over my many years of experience, I’ve also displayed 
+      proficiency in project management and team collaboration with outstanding 
+      presentation and communication abilities. My commitment to my profession 
+      and continuous development in my field coupled with my strong leadership 
+      & communication skills have contributed to me reaching my current role 
+      as a Senior Software Developer. The Full CV can be downloaded <a href = '../assets/pdf/28102021-CV-Curriculum-Vitae.pdf'>here</a>
 education:
     - degree: BTech Information Technology
       university: Durban University of Technology
       time: 2016
       details: |
-        I studied further to complete the BTech. I specialised in software development 
-		and had attained A's for both software development (C#) and SQL.
+      I studied further to complete the BTech. I specialised in software development 
+      and had attained A symbols for both software development (C#) and SQL.
     - degree: NDip Information Technology
       university: Durban University of Technology
       time: 2007
       details: |
-        This was the starting point of my studies and I went on to complete the NDip: IT.
+      This was the starting point of my studies and I went on to complete the NDip: IT.
 experiences:
     - role: Web Developer
       time: 2011 - 2012
@@ -69,8 +69,8 @@ experiences:
         At Infinet-IT, I developed websites and internal systems using php, C# and VB.Net with databases using mySQL and SQL Server
           - C#
           - VB.Net
-		  - MySQL
-		  - SQL Server
+          - MySQL
+          - SQL Server
     - role: Developer
       time: 2012 - 2015
       company: Destiny Software and Network Solutions
@@ -86,38 +86,38 @@ experiences:
         At the Ignition Group, I developed features for internal callcentre systems and billing systems. 
           - Azure Devops
           - C#
-		  - SQL Server
-		  - JQuery
-		  - KnockoutJS
-		  - Test Driven Development
-		  - Azure Queue Storage
-		  - Rest API
-		  - Xamarin
-	- role: Senior Developer
+          - SQL Server
+          - JQuery
+          - KnockoutJS
+          - Test Driven Development
+          - Azure Queue Storage
+          - Rest API
+          - Xamarin
+    - role: Senior Developer
       time: 2017 - 2019
       company: E4 Legal Studio
       details: |
         At E4 Legal Studio, I developed features for legal systems for bonds and transfers of property. 
           - C#
-		  - SQL Server
-		  - JQuery
-		  - KnockoutJS
-		  - VueJS
-		  - Test Driven Development
-		  - Rest API
-	- role: Senior Developer
+          - SQL Server
+          - JQuery
+          - KnockoutJS
+          - VueJS
+          - Test Driven Development
+          - Rest API
+    - role: Senior Developer
       time: 2019 - Current
       company: IUA Business Solutions
       details: |
         At IUA Business Solutions, I developed features for insurance companies for policies. I was also based in the banking team. 
           - C#
-		  - SQL Server
-		  - JQuery
-		  - VueJS
-		  - AngularJS
-		  - Test Driven Development
-		  - Rest API
-		  - Mongo DB
+          - SQL Server
+          - JQuery
+          - VueJS
+          - AngularJS
+          - Test Driven Development
+          - Rest API
+          - Mongo DB
 projects:
     title: Projects
     intro: >
