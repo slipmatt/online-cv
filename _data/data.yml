@@ -7,186 +7,154 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
+    name: Imtiaz Buckas
     tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    email: imtiaz.pocketpc@gmail.com
+    phone: 071 xxx xx12
+    website: slipmatt.github.io/online-cv/
+    linkedin: imtiaz-b-45682a45
+    github: slipmatt
+    stack-overflow: 2010332/imtiaz-buckas
+    codewars: https://www.codewars.com/users/slipmatt
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       - idiom: English
         level: Native
-
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
+		
+	  - idiom: Afrikaans
+        level: Second Language
 
     interests:
-      - item: Climbing
-        link:
+      - item: Music
+        link: https://www.mixcloud.com/DJ_TOxIK/
 
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
-        link:
+      - item: Gaming
+        link: https://www.youtube.com/channel/UC1qz8wu6sFgU-1LEOz5swHQ
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am characterized as a dynamic and detail-oriented Software Developer
+	  with progressive experience in the Full Stack development space. 
+	  I am a critical thinker who constantly seeks out innovative solutions 
+	  to everyday problems and I am driven by my deep passion for 
+	  designing, developing and supporting applications. Equipped with excellent 
+	  analytical skills over my many years of experience, I’ve also displayed 
+	  proficiency in project management and team collaboration with outstanding 
+	  presentation and communication abilities. My commitment to my profession 
+	  and continuous development in my field coupled with my strong leadership 
+	  & communication skills have contributed to me reaching my current role 
+	  as a Senior Software Developer. The Full CV can be downloaded <a href = '../assets/pdf/28102021-CV-Curriculum-Vitae.pdf'>here</a>
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: BTech Information Technology
+      university: Durban University of Technology
+      time: 2016
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        I studied further to complete the BTech. I specialised in software development 
+		and had attained A's for both software development (C#) and SQL.
+    - degree: NDip Information Technology
+      university: Durban University of Technology
+      time: 2007
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        This was the starting point of my studies and I went on to complete the NDip: IT.
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Web Developer
+      time: 2011 - 2012
+      company: Infinet-IT
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        At Infinet-IT, I developed websites and internal systems using php, C# and VB.Net with databases using mySQL and SQL Server
+          - C#
+          - VB.Net
+		  - MySQL
+		  - SQL Server
+    - role: Developer
+      time: 2012 - 2015
+      company: Destiny Software and Network Solutions
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        At DSNS, I developed internal logistics systems using C# and VB.Net with databases using SQL Server
+          - C#
+          - VB.Net
+		  - SQL Server
+    - role: Intermediate Developer
+      time: 2015 - 2017
+      company: Ignition Group
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        At the Ignition Group, I developed features for internal callcentre systems and billing systems. 
+          - Azure Devops
+          - C#
+		  - SQL Server
+		  - JQuery
+		  - KnockoutJS
+		  - Test Driven Development
+		  - Azure Queue Storage
+		  - Rest API
+		  - Xamarin
+	- role: Senior Developer
+      time: 2017 - 2019
+      company: E4 Legal Studio
+      details: |
+        At E4 Legal Studio, I developed features for legal systems for bonds and transfers of property. 
+          - C#
+		  - SQL Server
+		  - JQuery
+		  - KnockoutJS
+		  - VueJS
+		  - Test Driven Development
+		  - Rest API
+	- role: Senior Developer
+      time: 2019 - Current
+      company: IUA Business Solutions
+      details: |
+        At IUA Business Solutions, I developed features for insurance companies for policies. I was also based in the banking team. 
+          - C#
+		  - SQL Server
+		  - JQuery
+		  - VueJS
+		  - AngularJS
+		  - Test Driven Development
+		  - Rest API
+		  - Mongo DB
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      I did develop a few side projects as proofs of concepts
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: RunChallenge
+        link: "https://www.youtube.com/channel/UCjKcLHDbVF4E6I8Wsbo1v7Q"
+        tagline: "A progressive web app designed to connect fitness devices to an app and challenge friends to be fit together"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Media Farmer
+        link: "https://github.com/slipmatt/MediaFarmer"
+        tagline: "A web app and windows service designed for users in a company to que music on a central server for playing of a loud speaker, a jukebox"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: C#
         level: 98%
 
       - name: Javascript & jQuery
         level: 98%
 
       - name: Angular
-        level: 98%
+        level: 60%
 
       - name: HTML5 & CSS
         level: 95%
 
-      - name: Ruby on Rails
+      - name: VueJS
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: KnockoutJS
         level: 60%
+		
+	  - name: SQL Server
+        level: 98%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    CV of Imtiaz Buckas
