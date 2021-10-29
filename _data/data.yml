@@ -24,7 +24,7 @@ sidebar:
     languages:
       - idiom: English
         level: Native
-		
+
       - idiom: Afrikaans
         level: Secondary
 
@@ -78,7 +78,7 @@ experiences:
         At DSNS, I developed internal logistics systems using C# and VB.Net with databases using SQL Server
           - C#
           - VB.Net
-		  - SQL Server
+          - SQL Server
     - role: Intermediate Developer
       time: 2015 - 2017
       company: Ignition Group
